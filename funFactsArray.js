@@ -5,3 +5,5 @@ let funFactsArray = [
   "be excellent to each other. And, party on dudes",
   "you can't triple stamp a double stamp" 
 ]
+
+export { funFactsArray }; 

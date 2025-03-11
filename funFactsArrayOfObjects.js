@@ -27,4 +27,4 @@ let funFactsArrayOfObjects = [
 
 
   
- 
+export { funFactsArrayOfObjects };
